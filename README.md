@@ -26,5 +26,12 @@ This machine learning model achieved an accuracy of 86%, indicating strong predi
    ```sh
    pip install -r requirements.txt
 
+---
 
+### 📌 **6. Requirements File**
+```sh
+pandas
+matplotlib
+seaborn
+numpy
 
