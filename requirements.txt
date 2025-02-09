@@ -1,5 +1,0 @@
-```sh
-pandas
-matplotlib
-seaborn
-numpy
