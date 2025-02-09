@@ -28,7 +28,7 @@ This machine learning model achieved an accuracy of 86%, indicating strong predi
 
 ---
 
-### 📌 **6. Requirements File**
+### 📌 **6. Requirement Files**
 ```sh
 pandas
 matplotlib
