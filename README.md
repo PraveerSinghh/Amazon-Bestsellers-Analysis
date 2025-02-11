@@ -15,6 +15,14 @@ This machine learning model achieved an accuracy of 86%, indicating strong predi
 - Unique books by authors 📚
 - Total reviews per author 📝
 
+## 📌 Requirement Files
+```sh
+pandas
+matplotlib
+seaborn
+numpy
+```
+
 ## 🚀 How to Run
 1. Clone the Repository
    First, download the project to your local machine using:
@@ -28,10 +36,4 @@ This machine learning model achieved an accuracy of 86%, indicating strong predi
 
 ---
 
-### 📌 **6. Requirement Files**
-```sh
-pandas
-matplotlib
-seaborn
-numpy
 
