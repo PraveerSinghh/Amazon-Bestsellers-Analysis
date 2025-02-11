@@ -1,4 +1,4 @@
-# Amazon Bestsellers Analysis 📚
+# Amazon Bestsellers Books Analysis 📚
 
 ## 🔍 Project Overview
 This project aims to predict whether a book will become a bestseller on Amazon using machine learning techniques. By analyzing various book attributes such as author, genre, price, and customer reviews, the model identifies patterns that contribute to a book’s commercial success.
